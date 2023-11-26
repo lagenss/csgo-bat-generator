@@ -1,0 +1,1 @@
+-novid -nosound -low -w 640 -h 480

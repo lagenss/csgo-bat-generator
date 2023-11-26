@@ -1,0 +1,9 @@
+{
+  "screenWidth": 1920,
+  "screenHeight": 1080,
+  "windowWidth": 300,
+  "windowHeight": 300,
+  "windowsGap": 5,
+  "accountWidthLimit": 5,
+  "steamPath": "C:\\Program Files (x86)\\Steam\\steam2.exe"
+}
